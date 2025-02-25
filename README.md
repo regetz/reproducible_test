@@ -5,3 +5,7 @@ Test repo for the ADC Reproducible workshop
 
 - Create a remote repo on GitHub
 - Practice using Git!
+
+## Authors
+
+- Jim
