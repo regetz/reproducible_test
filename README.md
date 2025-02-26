@@ -1,4 +1,4 @@
-# reproducible_test: Jim
+# reproducible_test: Jim and Evelyn
 Test repo for the ADC Reproducible workshop
 
 ## Purpose
