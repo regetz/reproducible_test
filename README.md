@@ -9,3 +9,4 @@ Test repo for the ADC Reproducible workshop
 ## Authors
 
 - Jim
+- Evelyn
