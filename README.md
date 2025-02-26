@@ -5,7 +5,8 @@ Test repo for the ADC Reproducible workshop
 
 - Create a remote repo on GitHub
 - Practice using Git!
-- Work on collaborating for fun
+- Work on collaborating seriously
+- Practice resolving merge conflicts
 
 ## Authors
 
